@@ -12,7 +12,7 @@
         <div class="container">
             <form action="" method="post">
                 <div class="form">
-                    <label for="Information">Vos informations :</label>
+                    <label for="Information">Vos informations:</label>
                     <ul>
                         <li>NOM, Prenom</li>
                         <li>nom.prenom@gmail.com</li>
