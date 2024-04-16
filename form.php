@@ -8,7 +8,7 @@
 </head>
 <body>
     <nav class="navbar"><img src="images/logodetoure.png" alt="Logo" width="170px"></nav>
-    <div class="Tittle_page" style="color: #001858;"><h1>Formulaire Burn Out Guard</h1></div>
+    <div class="Tittle_page" style="color: #001858;"><h1>jjFormulaire Burn Out Guard</h1></div>
         <div class="container">
             <form action="" method="post">
                 <div class="form">
